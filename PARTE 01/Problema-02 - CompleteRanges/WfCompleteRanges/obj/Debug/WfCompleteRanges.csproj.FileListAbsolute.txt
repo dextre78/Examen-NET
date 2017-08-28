@@ -1,0 +1,22 @@
+C:\Users\user\Documents\Visual Studio 2012\Projects\Exam.NET\PARTE 01\Prob-02 - CompleteRanges\WfCompleteRanges\bin\Debug\WfCompleteRanges.exe.config
+C:\Users\user\Documents\Visual Studio 2012\Projects\Exam.NET\PARTE 01\Prob-02 - CompleteRanges\WfCompleteRanges\obj\Debug\WfCompleteRanges.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2012\Projects\Exam.NET\PARTE 01\Prob-02 - CompleteRanges\WfCompleteRanges\obj\Debug\WfCompleteRanges.FmCompleteRange.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\Exam.NET\PARTE 01\Prob-02 - CompleteRanges\WfCompleteRanges\obj\Debug\WfCompleteRanges.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\Exam.NET\PARTE 01\Prob-02 - CompleteRanges\WfCompleteRanges\obj\Debug\WfCompleteRanges.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2012\Projects\Exam.NET\PARTE 01\Prob-02 - CompleteRanges\WfCompleteRanges\bin\Debug\WfCompleteRanges.exe
+C:\Users\user\Documents\Visual Studio 2012\Projects\Exam.NET\PARTE 01\Prob-02 - CompleteRanges\WfCompleteRanges\bin\Debug\WfCompleteRanges.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\Exam.NET\PARTE 01\Prob-02 - CompleteRanges\WfCompleteRanges\bin\Debug\CompleteRanges.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\Exam.NET\PARTE 01\Prob-02 - CompleteRanges\WfCompleteRanges\bin\Debug\CompleteRanges.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\Exam.NET\PARTE 01\Prob-02 - CompleteRanges\WfCompleteRanges\obj\Debug\WfCompleteRanges.exe
+C:\Users\user\Documents\Visual Studio 2012\Projects\Exam.NET\PARTE 01\Prob-02 - CompleteRanges\WfCompleteRanges\obj\Debug\WfCompleteRanges.pdb
+D:\Temps\Exam.NET\PARTE 01\Prob-02 - CompleteRanges\WfCompleteRanges\bin\Debug\WfCompleteRanges.exe.config
+D:\Temps\Exam.NET\PARTE 01\Prob-02 - CompleteRanges\WfCompleteRanges\bin\Debug\WfCompleteRanges.exe
+D:\Temps\Exam.NET\PARTE 01\Prob-02 - CompleteRanges\WfCompleteRanges\bin\Debug\WfCompleteRanges.pdb
+D:\Temps\Exam.NET\PARTE 01\Prob-02 - CompleteRanges\WfCompleteRanges\bin\Debug\CompleteRanges.dll
+D:\Temps\Exam.NET\PARTE 01\Prob-02 - CompleteRanges\WfCompleteRanges\bin\Debug\CompleteRanges.pdb
+D:\Temps\Exam.NET\PARTE 01\Prob-02 - CompleteRanges\WfCompleteRanges\obj\Debug\WfCompleteRanges.csprojResolveAssemblyReference.cache
+D:\Temps\Exam.NET\PARTE 01\Prob-02 - CompleteRanges\WfCompleteRanges\obj\Debug\WfCompleteRanges.FmCompleteRange.resources
+D:\Temps\Exam.NET\PARTE 01\Prob-02 - CompleteRanges\WfCompleteRanges\obj\Debug\WfCompleteRanges.Properties.Resources.resources
+D:\Temps\Exam.NET\PARTE 01\Prob-02 - CompleteRanges\WfCompleteRanges\obj\Debug\WfCompleteRanges.csproj.GenerateResource.Cache
+D:\Temps\Exam.NET\PARTE 01\Prob-02 - CompleteRanges\WfCompleteRanges\obj\Debug\WfCompleteRanges.exe
+D:\Temps\Exam.NET\PARTE 01\Prob-02 - CompleteRanges\WfCompleteRanges\obj\Debug\WfCompleteRanges.pdb

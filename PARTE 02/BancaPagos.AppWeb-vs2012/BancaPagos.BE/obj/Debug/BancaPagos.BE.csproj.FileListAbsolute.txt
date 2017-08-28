@@ -1,0 +1,10 @@
+C:\Users\user\documents\visual studio 2012\Projects\BancaPagos\BancaPagos.BE\bin\Debug\BancaPagos.BE.dll
+C:\Users\user\documents\visual studio 2012\Projects\BancaPagos\BancaPagos.BE\bin\Debug\BancaPagos.BE.pdb
+C:\Users\user\documents\visual studio 2012\Projects\BancaPagos\BancaPagos.BE\obj\Debug\BancaPagos.BE.dll
+C:\Users\user\documents\visual studio 2012\Projects\BancaPagos\BancaPagos.BE\obj\Debug\BancaPagos.BE.pdb
+C:\Users\user\documents\visual studio 2012\Projects\BancaPagos\BancaPagos.BE\obj\Debug\BancaPagos.BE.csprojResolveAssemblyReference.cache
+D:\Temps\Exam.NET\PARTE 02\BancaPagos.AppWeb-vs2012\BancaPagos.BE\bin\Debug\BancaPagos.BE.dll
+D:\Temps\Exam.NET\PARTE 02\BancaPagos.AppWeb-vs2012\BancaPagos.BE\bin\Debug\BancaPagos.BE.pdb
+D:\Temps\Exam.NET\PARTE 02\BancaPagos.AppWeb-vs2012\BancaPagos.BE\obj\Debug\BancaPagos.BE.csprojResolveAssemblyReference.cache
+D:\Temps\Exam.NET\PARTE 02\BancaPagos.AppWeb-vs2012\BancaPagos.BE\obj\Debug\BancaPagos.BE.dll
+D:\Temps\Exam.NET\PARTE 02\BancaPagos.AppWeb-vs2012\BancaPagos.BE\obj\Debug\BancaPagos.BE.pdb

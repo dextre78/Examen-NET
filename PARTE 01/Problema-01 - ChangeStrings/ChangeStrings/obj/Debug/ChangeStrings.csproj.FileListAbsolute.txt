@@ -1,0 +1,15 @@
+c:\users\user\documents\visual studio 2012\Projects\ChangeStrings\ChangeStrings\bin\Debug\ChangeStrings.dll
+c:\users\user\documents\visual studio 2012\Projects\ChangeStrings\ChangeStrings\bin\Debug\ChangeStrings.pdb
+c:\users\user\documents\visual studio 2012\Projects\ChangeStrings\ChangeStrings\obj\Debug\ChangeStrings.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2012\Projects\ChangeStrings\ChangeStrings\obj\Debug\ChangeStrings.dll
+c:\users\user\documents\visual studio 2012\Projects\ChangeStrings\ChangeStrings\obj\Debug\ChangeStrings.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\Exam.NET\PARTE 01\Prob-01 - ChangeStrings\ChangeStrings\bin\Debug\ChangeStrings.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\Exam.NET\PARTE 01\Prob-01 - ChangeStrings\ChangeStrings\bin\Debug\ChangeStrings.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\Exam.NET\PARTE 01\Prob-01 - ChangeStrings\ChangeStrings\obj\Debug\ChangeStrings.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2012\Projects\Exam.NET\PARTE 01\Prob-01 - ChangeStrings\ChangeStrings\obj\Debug\ChangeStrings.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\Exam.NET\PARTE 01\Prob-01 - ChangeStrings\ChangeStrings\obj\Debug\ChangeStrings.pdb
+D:\Temps\Exam.NET\PARTE 01\Prob-01 - ChangeStrings\ChangeStrings\bin\Debug\ChangeStrings.dll
+D:\Temps\Exam.NET\PARTE 01\Prob-01 - ChangeStrings\ChangeStrings\bin\Debug\ChangeStrings.pdb
+D:\Temps\Exam.NET\PARTE 01\Prob-01 - ChangeStrings\ChangeStrings\obj\Debug\ChangeStrings.csprojResolveAssemblyReference.cache
+D:\Temps\Exam.NET\PARTE 01\Prob-01 - ChangeStrings\ChangeStrings\obj\Debug\ChangeStrings.dll
+D:\Temps\Exam.NET\PARTE 01\Prob-01 - ChangeStrings\ChangeStrings\obj\Debug\ChangeStrings.pdb

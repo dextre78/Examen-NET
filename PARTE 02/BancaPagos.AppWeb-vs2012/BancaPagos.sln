@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BancaPagos", "BancaPagos\BancaPagos.csproj", "{50E516F8-EBA1-4494-BC7B-7685026498AA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BancaPagos.DA", "BancaPagos.DA\BancaPagos.DA.csproj", "{D3FC6476-3644-433A-8F9D-38E31CD4B96E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BancaPagos.BE", "BancaPagos.BE\BancaPagos.BE.csproj", "{A6F6B9B2-B9A8-44EB-99E4-1B851A542BD9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BancaPagos.BL", "BancaPagos.BL\BancaPagos.BL.csproj", "{D7E664B6-C115-4443-A20C-E1D331C132EF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{50E516F8-EBA1-4494-BC7B-7685026498AA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{50E516F8-EBA1-4494-BC7B-7685026498AA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{50E516F8-EBA1-4494-BC7B-7685026498AA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{50E516F8-EBA1-4494-BC7B-7685026498AA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D3FC6476-3644-433A-8F9D-38E31CD4B96E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D3FC6476-3644-433A-8F9D-38E31CD4B96E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D3FC6476-3644-433A-8F9D-38E31CD4B96E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D3FC6476-3644-433A-8F9D-38E31CD4B96E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A6F6B9B2-B9A8-44EB-99E4-1B851A542BD9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6F6B9B2-B9A8-44EB-99E4-1B851A542BD9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6F6B9B2-B9A8-44EB-99E4-1B851A542BD9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6F6B9B2-B9A8-44EB-99E4-1B851A542BD9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7E664B6-C115-4443-A20C-E1D331C132EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7E664B6-C115-4443-A20C-E1D331C132EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7E664B6-C115-4443-A20C-E1D331C132EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7E664B6-C115-4443-A20C-E1D331C132EF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

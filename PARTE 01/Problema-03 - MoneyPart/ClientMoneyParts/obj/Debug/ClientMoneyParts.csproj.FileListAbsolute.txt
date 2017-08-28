@@ -1,0 +1,11 @@
+d:\users\inmortal\documents\visual studio 2017\Projects\MoneyPart\ClientMoneyParts\bin\Debug\ClientMoneyParts.exe.config
+d:\users\inmortal\documents\visual studio 2017\Projects\MoneyPart\ClientMoneyParts\bin\Debug\ClientMoneyParts.exe
+d:\users\inmortal\documents\visual studio 2017\Projects\MoneyPart\ClientMoneyParts\bin\Debug\ClientMoneyParts.pdb
+d:\users\inmortal\documents\visual studio 2017\Projects\MoneyPart\ClientMoneyParts\obj\Debug\ClientMoneyParts.csprojResolveAssemblyReference.cache
+d:\users\inmortal\documents\visual studio 2017\Projects\MoneyPart\ClientMoneyParts\obj\Debug\ClientMoneyParts.Procesar.resources
+d:\users\inmortal\documents\visual studio 2017\Projects\MoneyPart\ClientMoneyParts\obj\Debug\ClientMoneyParts.Properties.Resources.resources
+d:\users\inmortal\documents\visual studio 2017\Projects\MoneyPart\ClientMoneyParts\obj\Debug\ClientMoneyParts.csproj.GenerateResource.Cache
+d:\users\inmortal\documents\visual studio 2017\Projects\MoneyPart\ClientMoneyParts\obj\Debug\ClientMoneyParts.exe
+d:\users\inmortal\documents\visual studio 2017\Projects\MoneyPart\ClientMoneyParts\obj\Debug\ClientMoneyParts.pdb
+d:\users\inmortal\documents\visual studio 2017\Projects\MoneyPart\ClientMoneyParts\bin\Debug\MoneyParts.dll
+d:\users\inmortal\documents\visual studio 2017\Projects\MoneyPart\ClientMoneyParts\bin\Debug\MoneyParts.pdb

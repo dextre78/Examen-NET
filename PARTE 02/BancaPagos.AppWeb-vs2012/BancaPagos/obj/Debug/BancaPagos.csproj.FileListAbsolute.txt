@@ -1,0 +1,158 @@
+C:\Users\user\documents\visual studio 2012\Projects\BancaPagos\BancaPagos\bin\BancaPagos.dll
+C:\Users\user\documents\visual studio 2012\Projects\BancaPagos\BancaPagos\bin\BancaPagos.pdb
+C:\Users\user\documents\visual studio 2012\Projects\BancaPagos\BancaPagos\bin\Antlr3.Runtime.dll
+C:\Users\user\documents\visual studio 2012\Projects\BancaPagos\BancaPagos\bin\BancaPagos.BE.dll
+C:\Users\user\documents\visual studio 2012\Projects\BancaPagos\BancaPagos\bin\BancaPagos.BL.dll
+C:\Users\user\documents\visual studio 2012\Projects\BancaPagos\BancaPagos\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\documents\visual studio 2012\Projects\BancaPagos\BancaPagos\bin\Microsoft.Web.Mvc.dll
+C:\Users\user\documents\visual studio 2012\Projects\BancaPagos\BancaPagos\bin\Newtonsoft.Json.dll
+C:\Users\user\documents\visual studio 2012\Projects\BancaPagos\BancaPagos\bin\System.Net.Http.dll
+C:\Users\user\documents\visual studio 2012\Projects\BancaPagos\BancaPagos\bin\System.Net.Http.Formatting.dll
+C:\Users\user\documents\visual studio 2012\Projects\BancaPagos\BancaPagos\bin\System.Net.Http.WebRequest.dll
+C:\Users\user\documents\visual studio 2012\Projects\BancaPagos\BancaPagos\bin\System.Web.Helpers.dll
+C:\Users\user\documents\visual studio 2012\Projects\BancaPagos\BancaPagos\bin\System.Web.Http.dll
+C:\Users\user\documents\visual studio 2012\Projects\BancaPagos\BancaPagos\bin\System.Web.Http.WebHost.dll
+C:\Users\user\documents\visual studio 2012\Projects\BancaPagos\BancaPagos\bin\System.Web.Mvc.dll
+C:\Users\user\documents\visual studio 2012\Projects\BancaPagos\BancaPagos\bin\System.Web.Optimization.dll
+C:\Users\user\documents\visual studio 2012\Projects\BancaPagos\BancaPagos\bin\System.Web.Razor.dll
+C:\Users\user\documents\visual studio 2012\Projects\BancaPagos\BancaPagos\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\documents\visual studio 2012\Projects\BancaPagos\BancaPagos\bin\System.Web.WebPages.dll
+C:\Users\user\documents\visual studio 2012\Projects\BancaPagos\BancaPagos\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\documents\visual studio 2012\Projects\BancaPagos\BancaPagos\bin\WebGrease.dll
+C:\Users\user\documents\visual studio 2012\Projects\BancaPagos\BancaPagos\bin\BancaPagos.DA.dll
+C:\Users\user\documents\visual studio 2012\Projects\BancaPagos\BancaPagos\bin\BancaPagos.BE.pdb
+C:\Users\user\documents\visual studio 2012\Projects\BancaPagos\BancaPagos\bin\BancaPagos.BL.pdb
+C:\Users\user\documents\visual studio 2012\Projects\BancaPagos\BancaPagos\bin\Newtonsoft.Json.xml
+C:\Users\user\documents\visual studio 2012\Projects\BancaPagos\BancaPagos\bin\System.Net.Http.xml
+C:\Users\user\documents\visual studio 2012\Projects\BancaPagos\BancaPagos\bin\System.Net.Http.Formatting.xml
+C:\Users\user\documents\visual studio 2012\Projects\BancaPagos\BancaPagos\bin\System.Net.Http.WebRequest.xml
+C:\Users\user\documents\visual studio 2012\Projects\BancaPagos\BancaPagos\bin\System.Web.Helpers.xml
+C:\Users\user\documents\visual studio 2012\Projects\BancaPagos\BancaPagos\bin\System.Web.Http.xml
+C:\Users\user\documents\visual studio 2012\Projects\BancaPagos\BancaPagos\bin\System.Web.Http.WebHost.xml
+C:\Users\user\documents\visual studio 2012\Projects\BancaPagos\BancaPagos\bin\System.Web.Mvc.xml
+C:\Users\user\documents\visual studio 2012\Projects\BancaPagos\BancaPagos\bin\System.Web.Razor.xml
+C:\Users\user\documents\visual studio 2012\Projects\BancaPagos\BancaPagos\bin\System.Web.WebPages.xml
+C:\Users\user\documents\visual studio 2012\Projects\BancaPagos\BancaPagos\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\documents\visual studio 2012\Projects\BancaPagos\BancaPagos\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\documents\visual studio 2012\Projects\BancaPagos\BancaPagos\bin\BancaPagos.DA.pdb
+C:\Users\user\documents\visual studio 2012\Projects\BancaPagos\BancaPagos\bin\es\System.Web.Optimization.resources.dll
+C:\Users\user\documents\visual studio 2012\Projects\BancaPagos\BancaPagos\bin\es\System.Net.Http.resources.dll
+C:\Users\user\documents\visual studio 2012\Projects\BancaPagos\BancaPagos\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\user\documents\visual studio 2012\Projects\BancaPagos\BancaPagos\bin\es\System.Net.Http.WebRequest.resources.dll
+C:\Users\user\documents\visual studio 2012\Projects\BancaPagos\BancaPagos\bin\es\System.Web.Helpers.resources.dll
+C:\Users\user\documents\visual studio 2012\Projects\BancaPagos\BancaPagos\bin\es\System.Web.Http.resources.dll
+C:\Users\user\documents\visual studio 2012\Projects\BancaPagos\BancaPagos\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\user\documents\visual studio 2012\Projects\BancaPagos\BancaPagos\bin\es\System.Web.Mvc.resources.dll
+C:\Users\user\documents\visual studio 2012\Projects\BancaPagos\BancaPagos\bin\es\System.Web.Razor.resources.dll
+C:\Users\user\documents\visual studio 2012\Projects\BancaPagos\BancaPagos\bin\es\System.Web.WebPages.resources.dll
+C:\Users\user\documents\visual studio 2012\Projects\BancaPagos\BancaPagos\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\user\documents\visual studio 2012\Projects\BancaPagos\BancaPagos\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\user\documents\visual studio 2012\Projects\BancaPagos\BancaPagos\obj\Debug\BancaPagos.csprojResolveAssemblyReference.cache
+C:\Users\user\documents\visual studio 2012\Projects\BancaPagos\BancaPagos\obj\Debug\BancaPagos.dll
+C:\Users\user\documents\visual studio 2012\Projects\BancaPagos\BancaPagos\obj\Debug\BancaPagos.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\BancaPagos.AppWeb-vs2012\BancaPagos\bin\BancaPagos.dll.config
+C:\Users\user\Documents\Visual Studio 2012\Projects\BancaPagos.AppWeb-vs2012\BancaPagos\bin\BancaPagos.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\BancaPagos.AppWeb-vs2012\BancaPagos\bin\BancaPagos.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\BancaPagos.AppWeb-vs2012\BancaPagos\bin\Antlr3.Runtime.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\BancaPagos.AppWeb-vs2012\BancaPagos\bin\BancaPagos.BE.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\BancaPagos.AppWeb-vs2012\BancaPagos\bin\BancaPagos.BL.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\BancaPagos.AppWeb-vs2012\BancaPagos\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\BancaPagos.AppWeb-vs2012\BancaPagos\bin\Microsoft.Web.Mvc.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\BancaPagos.AppWeb-vs2012\BancaPagos\bin\Newtonsoft.Json.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\BancaPagos.AppWeb-vs2012\BancaPagos\bin\System.Net.Http.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\BancaPagos.AppWeb-vs2012\BancaPagos\bin\System.Net.Http.Formatting.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\BancaPagos.AppWeb-vs2012\BancaPagos\bin\System.Net.Http.WebRequest.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\BancaPagos.AppWeb-vs2012\BancaPagos\bin\System.Web.Helpers.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\BancaPagos.AppWeb-vs2012\BancaPagos\bin\System.Web.Http.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\BancaPagos.AppWeb-vs2012\BancaPagos\bin\System.Web.Http.WebHost.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\BancaPagos.AppWeb-vs2012\BancaPagos\bin\System.Web.Mvc.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\BancaPagos.AppWeb-vs2012\BancaPagos\bin\System.Web.Optimization.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\BancaPagos.AppWeb-vs2012\BancaPagos\bin\System.Web.Razor.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\BancaPagos.AppWeb-vs2012\BancaPagos\bin\System.Web.WebPages.Deployment.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\BancaPagos.AppWeb-vs2012\BancaPagos\bin\System.Web.WebPages.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\BancaPagos.AppWeb-vs2012\BancaPagos\bin\System.Web.WebPages.Razor.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\BancaPagos.AppWeb-vs2012\BancaPagos\bin\WebGrease.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\BancaPagos.AppWeb-vs2012\BancaPagos\bin\BancaPagos.DA.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\BancaPagos.AppWeb-vs2012\BancaPagos\bin\BancaPagos.BE.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\BancaPagos.AppWeb-vs2012\BancaPagos\bin\BancaPagos.BL.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\BancaPagos.AppWeb-vs2012\BancaPagos\bin\Newtonsoft.Json.xml
+C:\Users\user\Documents\Visual Studio 2012\Projects\BancaPagos.AppWeb-vs2012\BancaPagos\bin\System.Net.Http.xml
+C:\Users\user\Documents\Visual Studio 2012\Projects\BancaPagos.AppWeb-vs2012\BancaPagos\bin\System.Net.Http.Formatting.xml
+C:\Users\user\Documents\Visual Studio 2012\Projects\BancaPagos.AppWeb-vs2012\BancaPagos\bin\System.Net.Http.WebRequest.xml
+C:\Users\user\Documents\Visual Studio 2012\Projects\BancaPagos.AppWeb-vs2012\BancaPagos\bin\System.Web.Helpers.xml
+C:\Users\user\Documents\Visual Studio 2012\Projects\BancaPagos.AppWeb-vs2012\BancaPagos\bin\System.Web.Http.xml
+C:\Users\user\Documents\Visual Studio 2012\Projects\BancaPagos.AppWeb-vs2012\BancaPagos\bin\System.Web.Http.WebHost.xml
+C:\Users\user\Documents\Visual Studio 2012\Projects\BancaPagos.AppWeb-vs2012\BancaPagos\bin\System.Web.Mvc.xml
+C:\Users\user\Documents\Visual Studio 2012\Projects\BancaPagos.AppWeb-vs2012\BancaPagos\bin\System.Web.Razor.xml
+C:\Users\user\Documents\Visual Studio 2012\Projects\BancaPagos.AppWeb-vs2012\BancaPagos\bin\System.Web.WebPages.xml
+C:\Users\user\Documents\Visual Studio 2012\Projects\BancaPagos.AppWeb-vs2012\BancaPagos\bin\System.Web.WebPages.Deployment.xml
+C:\Users\user\Documents\Visual Studio 2012\Projects\BancaPagos.AppWeb-vs2012\BancaPagos\bin\System.Web.WebPages.Razor.xml
+C:\Users\user\Documents\Visual Studio 2012\Projects\BancaPagos.AppWeb-vs2012\BancaPagos\bin\BancaPagos.DA.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\BancaPagos.AppWeb-vs2012\BancaPagos\bin\es\System.Web.Optimization.resources.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\BancaPagos.AppWeb-vs2012\BancaPagos\bin\es\System.Net.Http.resources.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\BancaPagos.AppWeb-vs2012\BancaPagos\bin\es\System.Net.Http.Formatting.resources.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\BancaPagos.AppWeb-vs2012\BancaPagos\bin\es\System.Net.Http.WebRequest.resources.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\BancaPagos.AppWeb-vs2012\BancaPagos\bin\es\System.Web.Helpers.resources.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\BancaPagos.AppWeb-vs2012\BancaPagos\bin\es\System.Web.Http.resources.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\BancaPagos.AppWeb-vs2012\BancaPagos\bin\es\System.Web.Http.WebHost.resources.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\BancaPagos.AppWeb-vs2012\BancaPagos\bin\es\System.Web.Mvc.resources.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\BancaPagos.AppWeb-vs2012\BancaPagos\bin\es\System.Web.Razor.resources.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\BancaPagos.AppWeb-vs2012\BancaPagos\bin\es\System.Web.WebPages.resources.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\BancaPagos.AppWeb-vs2012\BancaPagos\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\BancaPagos.AppWeb-vs2012\BancaPagos\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\BancaPagos.AppWeb-vs2012\BancaPagos\obj\Debug\BancaPagos.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2012\Projects\BancaPagos.AppWeb-vs2012\BancaPagos\obj\Debug\BancaPagos.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\BancaPagos.AppWeb-vs2012\BancaPagos\obj\Debug\BancaPagos.pdb
+D:\Temps\Exam.NET\PARTE 02\BancaPagos.AppWeb-vs2012\BancaPagos\bin\BancaPagos.dll.config
+D:\Temps\Exam.NET\PARTE 02\BancaPagos.AppWeb-vs2012\BancaPagos\bin\BancaPagos.dll
+D:\Temps\Exam.NET\PARTE 02\BancaPagos.AppWeb-vs2012\BancaPagos\bin\BancaPagos.pdb
+D:\Temps\Exam.NET\PARTE 02\BancaPagos.AppWeb-vs2012\BancaPagos\bin\Antlr3.Runtime.dll
+D:\Temps\Exam.NET\PARTE 02\BancaPagos.AppWeb-vs2012\BancaPagos\bin\BancaPagos.BE.dll
+D:\Temps\Exam.NET\PARTE 02\BancaPagos.AppWeb-vs2012\BancaPagos\bin\BancaPagos.BL.dll
+D:\Temps\Exam.NET\PARTE 02\BancaPagos.AppWeb-vs2012\BancaPagos\bin\Microsoft.Web.Infrastructure.dll
+D:\Temps\Exam.NET\PARTE 02\BancaPagos.AppWeb-vs2012\BancaPagos\bin\Microsoft.Web.Mvc.dll
+D:\Temps\Exam.NET\PARTE 02\BancaPagos.AppWeb-vs2012\BancaPagos\bin\Newtonsoft.Json.dll
+D:\Temps\Exam.NET\PARTE 02\BancaPagos.AppWeb-vs2012\BancaPagos\bin\System.Net.Http.dll
+D:\Temps\Exam.NET\PARTE 02\BancaPagos.AppWeb-vs2012\BancaPagos\bin\System.Net.Http.Formatting.dll
+D:\Temps\Exam.NET\PARTE 02\BancaPagos.AppWeb-vs2012\BancaPagos\bin\System.Net.Http.WebRequest.dll
+D:\Temps\Exam.NET\PARTE 02\BancaPagos.AppWeb-vs2012\BancaPagos\bin\System.Web.Helpers.dll
+D:\Temps\Exam.NET\PARTE 02\BancaPagos.AppWeb-vs2012\BancaPagos\bin\System.Web.Http.dll
+D:\Temps\Exam.NET\PARTE 02\BancaPagos.AppWeb-vs2012\BancaPagos\bin\System.Web.Http.WebHost.dll
+D:\Temps\Exam.NET\PARTE 02\BancaPagos.AppWeb-vs2012\BancaPagos\bin\System.Web.Mvc.dll
+D:\Temps\Exam.NET\PARTE 02\BancaPagos.AppWeb-vs2012\BancaPagos\bin\System.Web.Optimization.dll
+D:\Temps\Exam.NET\PARTE 02\BancaPagos.AppWeb-vs2012\BancaPagos\bin\System.Web.Razor.dll
+D:\Temps\Exam.NET\PARTE 02\BancaPagos.AppWeb-vs2012\BancaPagos\bin\System.Web.WebPages.Deployment.dll
+D:\Temps\Exam.NET\PARTE 02\BancaPagos.AppWeb-vs2012\BancaPagos\bin\System.Web.WebPages.dll
+D:\Temps\Exam.NET\PARTE 02\BancaPagos.AppWeb-vs2012\BancaPagos\bin\System.Web.WebPages.Razor.dll
+D:\Temps\Exam.NET\PARTE 02\BancaPagos.AppWeb-vs2012\BancaPagos\bin\WebGrease.dll
+D:\Temps\Exam.NET\PARTE 02\BancaPagos.AppWeb-vs2012\BancaPagos\bin\BancaPagos.DA.dll
+D:\Temps\Exam.NET\PARTE 02\BancaPagos.AppWeb-vs2012\BancaPagos\bin\BancaPagos.BE.pdb
+D:\Temps\Exam.NET\PARTE 02\BancaPagos.AppWeb-vs2012\BancaPagos\bin\BancaPagos.BL.pdb
+D:\Temps\Exam.NET\PARTE 02\BancaPagos.AppWeb-vs2012\BancaPagos\bin\Newtonsoft.Json.xml
+D:\Temps\Exam.NET\PARTE 02\BancaPagos.AppWeb-vs2012\BancaPagos\bin\System.Net.Http.xml
+D:\Temps\Exam.NET\PARTE 02\BancaPagos.AppWeb-vs2012\BancaPagos\bin\System.Net.Http.Formatting.xml
+D:\Temps\Exam.NET\PARTE 02\BancaPagos.AppWeb-vs2012\BancaPagos\bin\System.Net.Http.WebRequest.xml
+D:\Temps\Exam.NET\PARTE 02\BancaPagos.AppWeb-vs2012\BancaPagos\bin\System.Web.Helpers.xml
+D:\Temps\Exam.NET\PARTE 02\BancaPagos.AppWeb-vs2012\BancaPagos\bin\System.Web.Http.xml
+D:\Temps\Exam.NET\PARTE 02\BancaPagos.AppWeb-vs2012\BancaPagos\bin\System.Web.Http.WebHost.xml
+D:\Temps\Exam.NET\PARTE 02\BancaPagos.AppWeb-vs2012\BancaPagos\bin\System.Web.Mvc.xml
+D:\Temps\Exam.NET\PARTE 02\BancaPagos.AppWeb-vs2012\BancaPagos\bin\System.Web.Razor.xml
+D:\Temps\Exam.NET\PARTE 02\BancaPagos.AppWeb-vs2012\BancaPagos\bin\System.Web.WebPages.xml
+D:\Temps\Exam.NET\PARTE 02\BancaPagos.AppWeb-vs2012\BancaPagos\bin\System.Web.WebPages.Deployment.xml
+D:\Temps\Exam.NET\PARTE 02\BancaPagos.AppWeb-vs2012\BancaPagos\bin\System.Web.WebPages.Razor.xml
+D:\Temps\Exam.NET\PARTE 02\BancaPagos.AppWeb-vs2012\BancaPagos\bin\BancaPagos.DA.pdb
+D:\Temps\Exam.NET\PARTE 02\BancaPagos.AppWeb-vs2012\BancaPagos\bin\es\System.Web.Optimization.resources.dll
+D:\Temps\Exam.NET\PARTE 02\BancaPagos.AppWeb-vs2012\BancaPagos\bin\es\System.Net.Http.resources.dll
+D:\Temps\Exam.NET\PARTE 02\BancaPagos.AppWeb-vs2012\BancaPagos\bin\es\System.Net.Http.Formatting.resources.dll
+D:\Temps\Exam.NET\PARTE 02\BancaPagos.AppWeb-vs2012\BancaPagos\bin\es\System.Net.Http.WebRequest.resources.dll
+D:\Temps\Exam.NET\PARTE 02\BancaPagos.AppWeb-vs2012\BancaPagos\bin\es\System.Web.Helpers.resources.dll
+D:\Temps\Exam.NET\PARTE 02\BancaPagos.AppWeb-vs2012\BancaPagos\bin\es\System.Web.Http.resources.dll
+D:\Temps\Exam.NET\PARTE 02\BancaPagos.AppWeb-vs2012\BancaPagos\bin\es\System.Web.Http.WebHost.resources.dll
+D:\Temps\Exam.NET\PARTE 02\BancaPagos.AppWeb-vs2012\BancaPagos\bin\es\System.Web.Mvc.resources.dll
+D:\Temps\Exam.NET\PARTE 02\BancaPagos.AppWeb-vs2012\BancaPagos\bin\es\System.Web.Razor.resources.dll
+D:\Temps\Exam.NET\PARTE 02\BancaPagos.AppWeb-vs2012\BancaPagos\bin\es\System.Web.WebPages.resources.dll
+D:\Temps\Exam.NET\PARTE 02\BancaPagos.AppWeb-vs2012\BancaPagos\bin\es\System.Web.WebPages.Deployment.resources.dll
+D:\Temps\Exam.NET\PARTE 02\BancaPagos.AppWeb-vs2012\BancaPagos\bin\es\System.Web.WebPages.Razor.resources.dll
+D:\Temps\Exam.NET\PARTE 02\BancaPagos.AppWeb-vs2012\BancaPagos\obj\Debug\BancaPagos.csprojResolveAssemblyReference.cache
+D:\Temps\Exam.NET\PARTE 02\BancaPagos.AppWeb-vs2012\BancaPagos\obj\Debug\BancaPagos.dll
+D:\Temps\Exam.NET\PARTE 02\BancaPagos.AppWeb-vs2012\BancaPagos\obj\Debug\BancaPagos.pdb

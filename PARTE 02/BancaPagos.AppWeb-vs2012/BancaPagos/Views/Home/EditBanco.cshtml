@@ -1,0 +1,60 @@
+﻿@model BancaPagos.BE.Banco
+
+@{
+    ViewBag.Title = "EditBanco";
+}
+
+<h2>Edit</h2>
+
+<h4>
+    @ViewBag.Messageresult
+</h4>
+
+@using (Html.BeginForm("CreateBanco","Home"))
+{
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        <legend>Banco</legend>
+
+        <div class="editor-label" style="display: none">
+            @Html.LabelFor(model => model.id_banca)
+        </div>
+        <div class="editor-field" style="display: none">
+            @Html.EditorFor(model => model.id_banca)
+            @Html.ValidationMessageFor(model => model.id_banca)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Nombre)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Nombre)
+            @Html.ValidationMessageFor(model => model.Nombre)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Direccion)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Direccion)
+            @Html.ValidationMessageFor(model => model.Direccion)
+        </div>
+
+        <div class="editor-label" style="display: none">
+            @Html.LabelFor(model => model.FechaRegistro)
+        </div>
+        <div class="editor-field" style="display: none">
+            @Html.EditorFor(model => model.FechaRegistro)
+            @Html.ValidationMessageFor(model => model.FechaRegistro)
+        </div>
+
+        <p>
+            <input type="submit" value="Save" />
+        </p>
+    </fieldset>
+}
+
+<div>
+    @Html.ActionLink("Regresar", "ListBanco")
+</div>

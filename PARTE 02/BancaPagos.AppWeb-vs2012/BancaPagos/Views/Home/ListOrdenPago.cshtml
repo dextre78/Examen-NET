@@ -1,0 +1,62 @@
+﻿@model IEnumerable<BancaPagos.BE.OrdenPago>
+
+@{
+    ViewBag.Title = "ListOrdenPago";
+}
+
+<h2>List</h2>
+
+<p>
+    @Html.ActionLink("Nuevo", "CreateOrdenPago")
+</p>
+<table>
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.id_ordenPago)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.id_sucursal)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Monto)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Moneda)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Estado)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.FechaPago)
+        </th>
+        <th></th>
+    </tr>
+
+@foreach (var item in Model) {
+    <tr>
+        <td>
+            @Html.DisplayFor(modelItem => item.id_ordenPago)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.id_sucursal)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Monto)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Moneda)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.Estado)
+        </td>
+        <td>
+            @Html.DisplayFor(modelItem => item.FechaPago)
+        </td>
+        <td>
+            @Html.ActionLink("Edit", "EditOrdenPago", new {  id=item.id_ordenPago, pestado = item.Estado, moneda = item.Moneda }) |            
+          @*  @Html.ActionLink("Delete", "Delete", new { /* id=item.PrimaryKey */ })*@
+        </td>
+    </tr>
+}
+
+</table>

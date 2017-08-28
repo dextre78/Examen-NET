@@ -1,0 +1,22 @@
+C:\Users\user\Documents\Visual Studio 2012\Projects\Exam.NET\PARTE 01\Prob-01 - ChangeStrings\WfChangeString\bin\Debug\WfChangeString.exe.config
+C:\Users\user\Documents\Visual Studio 2012\Projects\Exam.NET\PARTE 01\Prob-01 - ChangeStrings\WfChangeString\bin\Debug\WfChangeString.exe
+C:\Users\user\Documents\Visual Studio 2012\Projects\Exam.NET\PARTE 01\Prob-01 - ChangeStrings\WfChangeString\bin\Debug\WfChangeString.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\Exam.NET\PARTE 01\Prob-01 - ChangeStrings\WfChangeString\bin\Debug\ChangeStrings.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\Exam.NET\PARTE 01\Prob-01 - ChangeStrings\WfChangeString\bin\Debug\ChangeStrings.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\Exam.NET\PARTE 01\Prob-01 - ChangeStrings\WfChangeString\obj\Debug\WfChangeString.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2012\Projects\Exam.NET\PARTE 01\Prob-01 - ChangeStrings\WfChangeString\obj\Debug\WfChangeString.fmClient.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\Exam.NET\PARTE 01\Prob-01 - ChangeStrings\WfChangeString\obj\Debug\WfChangeString.Properties.Resources.resources
+C:\Users\user\Documents\Visual Studio 2012\Projects\Exam.NET\PARTE 01\Prob-01 - ChangeStrings\WfChangeString\obj\Debug\WfChangeString.csproj.GenerateResource.Cache
+C:\Users\user\Documents\Visual Studio 2012\Projects\Exam.NET\PARTE 01\Prob-01 - ChangeStrings\WfChangeString\obj\Debug\WfChangeString.exe
+C:\Users\user\Documents\Visual Studio 2012\Projects\Exam.NET\PARTE 01\Prob-01 - ChangeStrings\WfChangeString\obj\Debug\WfChangeString.pdb
+D:\Temps\Exam.NET\PARTE 01\Prob-01 - ChangeStrings\WfChangeString\bin\Debug\WfChangeString.exe.config
+D:\Temps\Exam.NET\PARTE 01\Prob-01 - ChangeStrings\WfChangeString\bin\Debug\WfChangeString.exe
+D:\Temps\Exam.NET\PARTE 01\Prob-01 - ChangeStrings\WfChangeString\bin\Debug\WfChangeString.pdb
+D:\Temps\Exam.NET\PARTE 01\Prob-01 - ChangeStrings\WfChangeString\bin\Debug\ChangeStrings.dll
+D:\Temps\Exam.NET\PARTE 01\Prob-01 - ChangeStrings\WfChangeString\bin\Debug\ChangeStrings.pdb
+D:\Temps\Exam.NET\PARTE 01\Prob-01 - ChangeStrings\WfChangeString\obj\Debug\WfChangeString.csprojResolveAssemblyReference.cache
+D:\Temps\Exam.NET\PARTE 01\Prob-01 - ChangeStrings\WfChangeString\obj\Debug\WfChangeString.fmClient.resources
+D:\Temps\Exam.NET\PARTE 01\Prob-01 - ChangeStrings\WfChangeString\obj\Debug\WfChangeString.Properties.Resources.resources
+D:\Temps\Exam.NET\PARTE 01\Prob-01 - ChangeStrings\WfChangeString\obj\Debug\WfChangeString.csproj.GenerateResource.Cache
+D:\Temps\Exam.NET\PARTE 01\Prob-01 - ChangeStrings\WfChangeString\obj\Debug\WfChangeString.exe
+D:\Temps\Exam.NET\PARTE 01\Prob-01 - ChangeStrings\WfChangeString\obj\Debug\WfChangeString.pdb

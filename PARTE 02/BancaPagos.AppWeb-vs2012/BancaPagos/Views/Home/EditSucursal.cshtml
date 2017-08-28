@@ -1,0 +1,73 @@
+﻿@model BancaPagos.BE.Sucursal
+
+@{
+    ViewBag.Title = "Editar sucursal";
+}
+
+<h2>Editar Sucursal</h2>
+
+@using (Html.BeginForm("EditSucursal","Home"))
+{
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        <legend>Sucursal</legend>
+
+        <div class="editor-label" style="display: none">
+            @Html.LabelFor(model => model.id_sucursal)
+        </div>
+        <div class="editor-field" style="display: none">
+            @Html.EditorFor(model => model.id_sucursal)
+            @Html.ValidationMessageFor(model => model.id_sucursal)
+        </div>
+
+        <div class="editor-label">
+            Banco:
+        </div>
+        <div class="editor-field">
+            @Html.DropDownList("Listbanco", ViewBag.DropDownList_Banco as SelectList, "Seleccione Banco", new { @disabled = "disabled" });
+        </div>
+
+        <div class="editor-label" style="display: none">
+            @Html.LabelFor(model => model.id_banca)
+        </div>
+        <div class="editor-field" style="display: none">
+            @Html.EditorFor(model => model.id_banca)
+            @Html.ValidationMessageFor(model => model.id_banca)
+        </div>
+
+        <div class="editor-label">
+           Nombre Sucursal @*@Html.LabelFor(model => model.Nombre)*@
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Nombre)
+            @Html.ValidationMessageFor(model => model.Nombre)
+        </div>
+
+      
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Direccion)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Direccion)
+            @Html.ValidationMessageFor(model => model.Direccion)
+        </div>
+
+        <div class="editor-label" style="display: none">
+            @Html.LabelFor(model => model.FechaRegistro)
+        </div>
+        <div class="editor-field" style="display: none">
+            @Html.EditorFor(model => model.FechaRegistro)
+            @Html.ValidationMessageFor(model => model.FechaRegistro)
+        </div>
+
+        <p>
+            <input type="submit" value="Save" />
+        </p>
+    </fieldset>
+}
+
+<div>
+    @Html.ActionLink("Regresar", "ListSucursal", new { pnombre = "-1" })
+</div>

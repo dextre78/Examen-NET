@@ -1,0 +1,77 @@
+﻿@model BancaPagos.BE.OrdenPago
+
+@{
+    ViewBag.Title = "Edit - Orden de pago";
+
+}
+
+<h2>Edit</h2>
+
+
+@using (Html.BeginForm("SaveOrdenPago","Home"))
+{
+    @Html.ValidationSummary(true)
+
+    <fieldset>
+        <legend>Orden de Pago</legend>
+
+        <div class="editor-label" style="display: none">
+            @Html.LabelFor(model => model.id_ordenPago)
+        </div>
+        <div class="editor-field" style="display: none">
+            @Html.EditorFor(model => model.id_ordenPago)
+            @Html.ValidationMessageFor(model => model.id_ordenPago)
+        </div>
+
+        <div class="editor-label" style="display: none">
+            @Html.LabelFor(model => model.id_sucursal)
+        </div>
+        <div class="editor-field" style="display: none">
+            @Html.EditorFor(model => model.id_sucursal)
+            @Html.ValidationMessageFor(model => model.id_sucursal)
+        </div>
+
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Monto)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Monto)
+            @Html.ValidationMessageFor(model => model.Monto)
+        </div>
+
+         <div class="editor-label">
+            Moneda:
+        </div>
+        <div class="editor-field">
+            @Html.DropDownList("ddlMoneda", ViewBag.DropDownList_Moneda as SelectList, "Seleccione Moneda");
+        </div>
+
+
+
+         <div class="editor-label">
+            Estado:
+        </div>
+        <div class="editor-field">
+            @Html.DropDownList("ddlEstado", ViewBag.DropDownList_Estado as SelectList, "Seleccione Estado");
+        </div>
+
+
+
+        <div class="editor-label" style="display: none">
+            @Html.LabelFor(model => model.Estado)
+        </div>
+        <div class="editor-field" style="display: none">
+            @Html.EditorFor(model => model.Estado)
+            @Html.ValidationMessageFor(model => model.Estado)
+        </div>
+
+
+        <p>
+            <input type="submit" value="Save" />
+        </p>
+    </fieldset>
+}
+
+<div>
+    @Html.ActionLink("Regresar", "ListOrdenPago" ,  new { pbanco=-1, psucursal=-1 })
+</div>

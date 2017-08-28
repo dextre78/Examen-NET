@@ -1,0 +1,27 @@
+C:\Users\user\documents\visual studio 2012\Projects\BancaPagos\BancaPagos.BL\bin\Debug\BancaPagos.BL.dll
+C:\Users\user\documents\visual studio 2012\Projects\BancaPagos\BancaPagos.BL\bin\Debug\BancaPagos.BL.pdb
+C:\Users\user\documents\visual studio 2012\Projects\BancaPagos\BancaPagos.BL\bin\Debug\BancaPagos.BE.dll
+C:\Users\user\documents\visual studio 2012\Projects\BancaPagos\BancaPagos.BL\bin\Debug\BancaPagos.DA.dll
+C:\Users\user\documents\visual studio 2012\Projects\BancaPagos\BancaPagos.BL\bin\Debug\BancaPagos.BE.pdb
+C:\Users\user\documents\visual studio 2012\Projects\BancaPagos\BancaPagos.BL\bin\Debug\BancaPagos.DA.pdb
+C:\Users\user\documents\visual studio 2012\Projects\BancaPagos\BancaPagos.BL\obj\Debug\BancaPagos.BL.csprojResolveAssemblyReference.cache
+C:\Users\user\documents\visual studio 2012\Projects\BancaPagos\BancaPagos.BL\obj\Debug\BancaPagos.BL.dll
+C:\Users\user\documents\visual studio 2012\Projects\BancaPagos\BancaPagos.BL\obj\Debug\BancaPagos.BL.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\BancaPagos.AppWeb-vs2012\BancaPagos.BL\bin\Debug\BancaPagos.BL.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\BancaPagos.AppWeb-vs2012\BancaPagos.BL\bin\Debug\BancaPagos.BL.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\BancaPagos.AppWeb-vs2012\BancaPagos.BL\bin\Debug\BancaPagos.BE.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\BancaPagos.AppWeb-vs2012\BancaPagos.BL\bin\Debug\BancaPagos.DA.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\BancaPagos.AppWeb-vs2012\BancaPagos.BL\bin\Debug\BancaPagos.BE.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\BancaPagos.AppWeb-vs2012\BancaPagos.BL\bin\Debug\BancaPagos.DA.pdb
+C:\Users\user\Documents\Visual Studio 2012\Projects\BancaPagos.AppWeb-vs2012\BancaPagos.BL\obj\Debug\BancaPagos.BL.csprojResolveAssemblyReference.cache
+C:\Users\user\Documents\Visual Studio 2012\Projects\BancaPagos.AppWeb-vs2012\BancaPagos.BL\obj\Debug\BancaPagos.BL.dll
+C:\Users\user\Documents\Visual Studio 2012\Projects\BancaPagos.AppWeb-vs2012\BancaPagos.BL\obj\Debug\BancaPagos.BL.pdb
+D:\Temps\Exam.NET\PARTE 02\BancaPagos.AppWeb-vs2012\BancaPagos.BL\bin\Debug\BancaPagos.BL.dll
+D:\Temps\Exam.NET\PARTE 02\BancaPagos.AppWeb-vs2012\BancaPagos.BL\bin\Debug\BancaPagos.BL.pdb
+D:\Temps\Exam.NET\PARTE 02\BancaPagos.AppWeb-vs2012\BancaPagos.BL\bin\Debug\BancaPagos.BE.dll
+D:\Temps\Exam.NET\PARTE 02\BancaPagos.AppWeb-vs2012\BancaPagos.BL\bin\Debug\BancaPagos.DA.dll
+D:\Temps\Exam.NET\PARTE 02\BancaPagos.AppWeb-vs2012\BancaPagos.BL\bin\Debug\BancaPagos.BE.pdb
+D:\Temps\Exam.NET\PARTE 02\BancaPagos.AppWeb-vs2012\BancaPagos.BL\bin\Debug\BancaPagos.DA.pdb
+D:\Temps\Exam.NET\PARTE 02\BancaPagos.AppWeb-vs2012\BancaPagos.BL\obj\Debug\BancaPagos.BL.csprojResolveAssemblyReference.cache
+D:\Temps\Exam.NET\PARTE 02\BancaPagos.AppWeb-vs2012\BancaPagos.BL\obj\Debug\BancaPagos.BL.dll
+D:\Temps\Exam.NET\PARTE 02\BancaPagos.AppWeb-vs2012\BancaPagos.BL\obj\Debug\BancaPagos.BL.pdb

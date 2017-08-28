@@ -1,0 +1,4 @@
+d:\users\inmortal\documents\visual studio 2017\Projects\MoneyPart\MoneyParts\bin\Debug\MoneyParts.dll
+d:\users\inmortal\documents\visual studio 2017\Projects\MoneyPart\MoneyParts\bin\Debug\MoneyParts.pdb
+d:\users\inmortal\documents\visual studio 2017\Projects\MoneyPart\MoneyParts\obj\Debug\MoneyParts.dll
+d:\users\inmortal\documents\visual studio 2017\Projects\MoneyPart\MoneyParts\obj\Debug\MoneyParts.pdb

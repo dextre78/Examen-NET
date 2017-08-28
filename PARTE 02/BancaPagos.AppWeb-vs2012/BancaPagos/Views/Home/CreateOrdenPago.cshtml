@@ -1,0 +1,86 @@
+﻿@model BancaPagos.BE.OrdenPago
+
+@{
+    ViewBag.Title = "CreateOrdenPago";
+    <script src="~/scripts/jquery-3.0.0.min.js"></script>
+}
+
+<script>
+    $(document).ready(function () {
+
+        $("#ddlBanco").change(function () {
+
+            var id = $("#ddlBanco").val();
+
+            $.get("/Home/GetSucursal",{
+                id: id
+                },
+                function (data) {
+
+                    $("#ddlSucursal").empty();
+                $.each(data, function (index, rows) {
+                    $("#ddlSucursal").append(" <option value='" + rows.Value + "'>" + rows.Text + "</option>")
+                })
+            });
+
+
+        })
+    })
+</script>
+<h2>crear nueva orden de pago</h2>
+
+@using (Html.BeginForm())
+{
+  
+
+    <fieldset>
+        <legend>orden de pago</legend>
+
+        <div class="editor-label" style="display: none">
+            @Html.LabelFor(model => model.id_ordenPago)
+        </div>     
+
+        <div class="editor-label">
+            Banco:
+        </div>
+        <div class="editor-field">
+            @Html.DropDownList("ddlBanco", ViewBag.DropDownList_Banco as SelectList, "Seleccione Banco");
+        </div>
+
+        <div class="editor-label">
+            Sucursal:
+        </div>
+        <div class="editor-field">
+            @Html.DropDownList("ddlSucursal", new SelectList(string.Empty, "Value", "Text"), "Seleccione Sucursal");
+        </div>
+   
+        <div class="editor-label">
+            @Html.LabelFor(model => model.Monto)
+        </div>
+        <div class="editor-field">
+            @Html.EditorFor(model => model.Monto)          
+        </div>
+
+        <div class="editor-label">
+            Moneda:
+        </div>
+        <div class="editor-field">
+            @Html.DropDownList("ddlMoneda", ViewBag.DropDownList_Moneda as SelectList, "Seleccione Moneda");
+        </div>
+
+        <div class="editor-label">
+            Estado:
+        </div>
+        <div class="editor-field">
+            @Html.DropDownList("ddlEstado", ViewBag.DropDownList_Estado as SelectList, "Seleccione Estado");
+        </div>
+
+        <p>
+            <input type="submit" value="Save" />
+        </p>
+    </fieldset>
+}
+
+<div>
+    @Html.ActionLink("Back to List", "Index")
+</div>
